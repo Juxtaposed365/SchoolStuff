@@ -1,0 +1,10 @@
+void (){
+@_some_array = []
+%_myhash = []
+int $num = 12
+$num=$num * 6 / 3 - 1 + 4
+string $str = "mystring"
+char $c = 'c'
+float $f = 12.23212
+!$somebool &&& $someotherbool ||| $somebool
+}
